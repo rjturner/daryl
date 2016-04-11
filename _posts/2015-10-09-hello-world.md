@@ -8,7 +8,7 @@ Hi there, thanks for checking out Daryl, a performant and simple theme for [Jeky
 
 It's open source for a reason: I've learned a lot from open source software and I'm trying to give a little something back. Hope you enjoy.
 
-####Daryl Features
+#### Daryl Features
 - Mobile-first and thereby...
 - Performant-first
 - 404 page included

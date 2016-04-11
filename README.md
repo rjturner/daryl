@@ -51,7 +51,17 @@ git clone https://github.com/andrewcodes/daryl.git
 
 Daryl’s *Master* branch is the “clean branch”. *Master* is ready to be deployed at all times once this theme is released. All development will be done on their own branches in a SEMVER style. If a patch or feature needs to be pushed to _Master_, a 1.1.0 (for feature) or 1.0.1 (for a patch/fix) will be created and developed on.
 
-Since this is an open source project, pull requests for fixes are welcome. If you would like to change the design of this theme, please fork this project.
+##Contributing
+
+Since this is an open source project, pull requests for fixes are welcome. Details on how to do that are below:
+
+- Fork it
+- Create your feature branch (git checkout -b your-new-feature)
+- Commit your changes (git commit -am "Add your new feature")
+- Push to the branch (git push origin your-new-feature)
+- Create a new Pull Request
+
+If you would like to change the design of this theme, please fork this project.
 
 ##Tasks
 
