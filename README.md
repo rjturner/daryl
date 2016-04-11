@@ -11,7 +11,7 @@ The name of this theme is from [Daryl Dixon](http://walkingdead.wikia.com/wiki/D
 - Mobile-first and by nature, performant-first
 - Responsive by default
 - Small file size
-- No Sass/Less. Vanilla HTML and CSS.
+- No build tools except for Jekyll itself.
 - Includes an Archive/Post-list page template.
 
 ##Installation
