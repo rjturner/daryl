@@ -56,7 +56,7 @@ Daryl’s *Master* branch is the “clean branch”. *Master* is ready to be dep
 
 Since this is an open source project, pull requests for fixes are welcome. Details on how to do that are below:
 
-- Fork it
+- Fork the project
 - Create your feature branch (git checkout -b your-new-feature)
 - Commit your changes (git commit -am "Add your new feature")
 - Push to the branch (git push origin your-new-feature)
