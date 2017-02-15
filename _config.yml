@@ -1,9 +1,9 @@
 # Site settings
 title: RyanJTurner.com
-tagline: Dedicated to my children.
+tagline: For my children.
 email: blog@ryanjturner.com
 description: > # this means to ignore newlines until "baseurl"
-  A blog about leadership capturing everything I want to teach my children.
+  Leadership is the defining challenge and opportunity of our lives. This blog is a repository of everything I have learned about leadership, which is the legacy I want to leave my children.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.ryanjturner.com" # the base hostname & protocol for your site
 twitter_username: TurnerRyanJ
